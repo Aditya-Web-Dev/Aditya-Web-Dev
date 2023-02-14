@@ -5,4 +5,4 @@ My name is Aditya Chaurasia based in India. I am full stack developer and my cur
 - 🔭 I’m currently working on own programming language
 - 🌱 I’m currently learning TypeScript
 
-You can eamil me on catninja596@gmail.com
+You can email me on catninja596@gmail.com
